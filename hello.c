@@ -4,6 +4,7 @@ int main(int argc, char const *argv[])
 {
     printf("hello world.");
     printf("this is second line");
-    printf("line for emergency fix");
+    printf("merge resolve");
+     
     return 0;
 }
